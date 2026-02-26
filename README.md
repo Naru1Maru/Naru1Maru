@@ -1,4 +1,4 @@
-Здесь собраны некоторые учебные проекты
+Некоторые учебные проекты
 
 | Название проекта | Описание | Навыки и инструменты |
 | :--------------------------- | :---------------------- | :---------------------- |
@@ -10,11 +10,3 @@
 | 6. [Анализ бизнес-показателей приложения](https://github.com/Naru1Maru/project/blob/main/6.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/6.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.ipynb) |  Анализ убытков приложения ProcrastinatePRO+  | Python, Pandas, Matplotlib, Seaborn, Когортный анализ, Юнит-экономика  |
 | 7. [Фитнес-центр](https://github.com/Naru1Maru/project/blob/main/7.%20%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80/7.%20%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80.ipynb) |  Прогнозирование вероятности оттока пользователей для фитнес-центров  | Pandas, Scikit-learn, Matplotlib, Seaborn, Машинное обучение, Классификация, Кластеризация |
 | 8. [Выпускной проект: Банк](https://github.com/Naru1Maru/project/blob/main/8.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%91%D0%B0%D0%BD%D0%BA/8.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%91%D0%B0%D0%BD%D0%BA.ipynb) |  Анализ клиентов регионального банка и описание портрета клиентов, склонных уходить из банка  | Pandas, Scikit-learn, Matplotlib, Seaborn, Машинное обучение, Классификация, Кластеризация |
-
-
-
-
-<!---
-Naru1Maru/Naru1Maru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
